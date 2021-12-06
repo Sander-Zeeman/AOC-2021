@@ -1,6 +1,6 @@
 # Advent of Code 2021
 
-These are my solutions to the Advent of Code 2021 event! (![https://adventofcode.com/])
+These are my solutions to the Advent of Code 2021 event! (https://adventofcode.com/)
 
 This year, I took on the self-imposed challenge of only using Haskell!
 
