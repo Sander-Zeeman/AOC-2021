@@ -1,5 +1,5 @@
 step :: [Integer] -> [Integer]
-step (c:cs) = (take 6 cs) ++ [(cs !! 6) + c] ++ [last cs] ++ [c] 
+step [a,b,c,d,e,f,g,h,i] = [b,c,d,e,f,g,h + a,i,a] 
 
 specificCount :: [Integer] -> Integer -> Integer
 specificCount [] _ = 0
