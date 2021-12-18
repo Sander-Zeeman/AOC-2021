@@ -1,4 +1,4 @@
 15 and 16 did not go entirely right.
 All test cases, and any cases I could think of passed perfectly.
 However, the final input case for part 2 failed.
-I did not manage to resolve these issues, so whatever bug caused this is still present.
+I did not manage to resolve these issues (yet), so whatever bug caused this is still present.
